@@ -1,8 +1,8 @@
 
-#Home Automation using Bluetooth.
-Control the Devices through Bluetooth.
+**Home Automation using Bluetooth.**
+ **Control the appliances using bluetooth**
 
-Arduino Code
+**Arduino Code**
 
 <pre>
 <code>
@@ -32,6 +32,6 @@ void loop()
 </code>
 </pre>
 
-<p>Shematic</p>
+**Shematic**
 
 <img src = "https://github.com/abhisheksharma1310/Control-the-Device-through-bluetooth/blob/main/Schematic_bb.png">
